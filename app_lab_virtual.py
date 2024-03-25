@@ -220,7 +220,7 @@ with tab4:
                 k_{xx} = \frac{3EI_{xx}}{L^3}
                 ''')
     col3.latex(r'''
-                \eta = \{c}{2\sqrt{km}}
+                \zeta = \{c}{2\sqrt{km}}
                 ''')
 
     
