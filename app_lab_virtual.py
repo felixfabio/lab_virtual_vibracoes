@@ -219,6 +219,9 @@ with tab4:
     col3.latex(r'''
                 k_{xx} = \frac{3EI_{xx}}{L^3}
                 ''')
+    col3.latex(r'''
+                \eta = \{c}{2\sqrt{km}}
+                ''')
 
     
     
