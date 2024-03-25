@@ -194,10 +194,10 @@ with tab4:
     col1,col2,col3 = st.columns([2,1,1])
     col2.markdown(""" <div style='text-align:center;'>
             <h4> Alunos </h4>
-            </div>""", unsafe_allow_html=True)    
-    col1.image("https://imgur.com/a/8oUGzWH")
-    col1.image("https://imgur.com/a/I0VDwkI")
-    col1.image("https://imgur.com/a/WjLze7N")
+            </div>""", unsafe_allow_html=True)   
+    col1.image("https://raw.githubusercontent.com/felixfabio/lab_virtual_vibracoes/main/projeto_1.png")
+    col1.image("https://raw.githubusercontent.com/felixfabio/lab_virtual_vibracoes/main/bancada_exemplo_projeto_1.png")
+    col1.image("https://raw.githubusercontent.com/felixfabio/lab_virtual_vibracoes/main/esquema_proj1_livre_n_amor.png")
     col2.write("Christiano Ramos: m = 4794,86 kg")
     col2.write("Deivisson Cassio: m = 2131,05 kg")
     col2.write("Diego Reis: m = 1198,71 kg")
